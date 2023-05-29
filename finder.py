@@ -179,7 +179,7 @@ def searchStock(stockCode, key):
         return dict
 
 def test():
-    print(searchStock("031860", "4ee05faa25d33dd19a2ad57abb8af4c713045991"))
+    print(searchStock("031860", ""))
 
 #test()
-#testFunction("4ee05faa25d33dd19a2ad57abb8af4c713045991")
+#testFunction("")
